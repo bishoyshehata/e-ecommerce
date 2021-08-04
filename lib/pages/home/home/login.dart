@@ -61,21 +61,8 @@ var diw=MediaQuery.of(context).size.width;
                         BoxShadow(color: Colors.black,blurRadius: 5,)
                       ],color: Colors.white),),),
 
-
-
                 ],),),
               ),
-
-
-
-
-
-
-
-
-
-
-
 
             ]),
       ]),
